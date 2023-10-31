@@ -1,0 +1,8 @@
+n = input('Insira um valor: ')
+print(type(n))
+print(n.isnumeric())
+print(n.isalpha())
+print(n.isspace())
+print(n.isdigit())
+## para ver se é numérico print(n.isnumeric())
+##para ver se é letra ou seja string print(n.isalpha())
